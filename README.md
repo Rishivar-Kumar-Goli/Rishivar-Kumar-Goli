@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rishivar-Kumar-Goli
 - 👀 I’m interested in Cyber Security and Research
-- 🌱 I’m currently learning how to leverage AI and ML in detecting Vulnerabilities and bugs
-- 💞️ I’m looking to collaborate on software projects and repositories
+- 🌱 I’m currently learning how to leverage AI and ML in detecting Vulnerabilities and Bugs
+-   I’m looking to collaborate on software projects and repositories
 - 📫 How to reach me rishivarkumar6@gmail.com
 
 <!---
